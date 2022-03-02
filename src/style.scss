@@ -70,6 +70,8 @@ $background_black:#24252a;
     
 }
 
+//por alguna razon se me daña la pagina si agrego un background-color global//
+
 .container {
     height:  100vh;
     @include flexbox;
