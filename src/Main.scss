@@ -22,13 +22,13 @@ padding: 0;
     
 }
 
-.icon-bar{background: darkorange; }
+.icon-bar{background: green; }
 
 li a{color: #333;}
 
 .big-text { font-size: 52px;
 margin: 20px 0;
-color: darkorange;}
+color: green;}
 
 a.btn {
     margin: 30px 10p;
@@ -38,18 +38,18 @@ a.btn {
  }
 
  a.btn-first {
-     background-color: darkorange;
+     background-color: green;
      color: #fff;
  }
 
  a.btn-second {
      background: transparent;
-     border: 1px solid darkorange;
+     border: 1px solid green;
      color: #333;
  }
 
  a.btn:hover {
-     background: darkorange;
+     background: green;
      border: none;
      color: #fff;
      box-shadow: 5px 5px 10px #999;

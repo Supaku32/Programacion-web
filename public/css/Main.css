@@ -19,7 +19,7 @@
 }
 
 .icon-bar {
-  background: darkorange;
+  background: green;
 }
 
 li a {
@@ -29,7 +29,7 @@ li a {
 .big-text {
   font-size: 52px;
   margin: 20px 0;
-  color: darkorange;
+  color: green;
 }
 
 a.btn {
@@ -40,18 +40,18 @@ a.btn {
 }
 
 a.btn-first {
-  background-color: darkorange;
+  background-color: green;
   color: #fff;
 }
 
 a.btn-second {
   background: transparent;
-  border: 1px solid darkorange;
+  border: 1px solid green;
   color: #333;
 }
 
 a.btn:hover {
-  background: darkorange;
+  background: green;
   border: none;
   color: #fff;
   -webkit-box-shadow: 5px 5px 10px #999;
